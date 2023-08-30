@@ -2,7 +2,5 @@
 
 ### [√] Description :
 
-<p>This Tool is developed by Z1L0X. It is used for automating metasploit just by few cammands.  '-'</p>
+<p>This Tool is developed by Z1L0X. It is used for automating metasploit just by few cammands.  ' - '</p>
 
-### [+] Installation:
-wait
